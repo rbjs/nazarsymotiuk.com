@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Shryft';
+    src: url('ns-bold.woff2') format('woff2'),
+        url('ns-bold.woff') format('woff'),
+        url('ns-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shryft';
+    src: url('ns-regular.woff2') format('woff2'),
+        url('ns-regular.woff') format('woff'),
+        url('ns-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
